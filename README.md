@@ -2,7 +2,7 @@
   <img style="max-width: 100%;width: 300px;" src="https://raw.githubusercontent.com/sigstore/community/main/artwork/cosign/horizontal/color/sigstore_cosign-horizontal-color.svg" alt="Cosign logo"/>
 </p>
 
-# cosign
+# cosign -
 
 Signing OCI containers (and other artifacts) using [Sigstore](https://sigstore.dev/)!
 
